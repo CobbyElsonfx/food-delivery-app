@@ -26,8 +26,7 @@ This is a comprehensive React Native food delivery app built with Expo. The app 
 ### Prerequisites
 - Node.js (v16 or higher)
 - Expo CLI
-- Android Studio (for Android)
-- Xcode (for iOS, macOS only)
+- Visual Studio Code
 
 ### Step 1: Initialize Project
 ```bash
