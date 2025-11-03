@@ -2,6 +2,16 @@
 
 A modern food delivery mobile application built with React Native and Expo. This app allows users to browse, search, and order food items with a beautiful and intuitive user interface.
 
+## Screenshots
+
+![Screenshot 1](./IMG-20251028-WA0017.jpg)
+![Screenshot 2](./IMG-20251028-WA0018.jpg)
+![Screenshot 3](./IMG-20251028-WA0019.jpg)
+![Screenshot 4](./IMG-20251028-WA0020.jpg)
+![Screenshot 5](./IMG-20251028-WA0021.jpg)
+![Screenshot 6](./IMG-20251028-WA0022.jpg)
+![Screenshot 7](./IMG-20251028-WA0023.jpg)
+
 ## Features
 
 ### 🏠 Home Screen

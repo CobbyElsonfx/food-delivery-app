@@ -99,7 +99,7 @@ export default function HomeScreen({ navigation }) {
       onPress={() => navigation.navigate('FoodDetail', { foodItem: item })}
     >
       <Image source={{ uri: item.image }} style={styles.searchResultImage} />
-      <View style={styles.searchResultInfo}>
+           <View style={styles.searchResultInfo}>
         <Text style={styles.searchResultName}>{item.name}</Text>
         <Text style={styles.searchResultDescription} numberOfLines={2}>
           {item.description}
