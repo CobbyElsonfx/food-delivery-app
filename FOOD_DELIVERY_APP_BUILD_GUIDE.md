@@ -2,14 +2,15 @@
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
-2. [Setup & Installation](#setup--installation)
-3. [Project Structure](#project-structure)
-4. [Step-by-Step Implementation](#step-by-step-implementation)
-5. [Navigation Architecture](#navigation-architecture)
-6. [Data Management](#data-management)
-7. [Screen Implementation](#screen-implementation)
-8. [Key Features Logic](#key-features-logic)
-9. [Testing & Deployment](#testing--deployment)
+2. [Screenshots](#screenshots)
+3. [Setup & Installation](#setup--installation)
+4. [Project Structure](#project-structure)
+5. [Step-by-Step Implementation](#step-by-step-implementation)
+6. [Navigation Architecture](#navigation-architecture)
+7. [Data Management](#data-management)
+8. [Screen Implementation](#screen-implementation)
+9. [Key Features Logic](#key-features-logic)
+10. [Testing & Deployment](#testing--deployment)
 
 ## Project Overview
 
@@ -20,6 +21,16 @@ This is a comprehensive React Native food delivery app built with Expo. The app 
 - **Local Storage**: Cart, favorites, order history, user profile
 - **Search & Filter**: Real-time search across food items
 - **Checkout System**: Complete order flow with pricing calculations
+
+## Screenshots
+
+![Screenshot 1](./IMG-20251028-WA0017.jpg)
+![Screenshot 2](./IMG-20251028-WA0018.jpg)
+![Screenshot 3](./IMG-20251028-WA0019.jpg)
+![Screenshot 4](./IMG-20251028-WA0020.jpg)
+![Screenshot 5](./IMG-20251028-WA0021.jpg)
+![Screenshot 6](./IMG-20251028-WA0022.jpg)
+![Screenshot 7](./IMG-20251028-WA0023.jpg)
 
 ## Setup & Installation
 
